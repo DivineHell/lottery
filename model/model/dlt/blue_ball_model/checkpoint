@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/divine/PycharmProjects/lottery/model/model//dlt/blue_ball_model/blue_ball_model.ckpt"
+all_model_checkpoint_paths: "/Users/divine/PycharmProjects/lottery/model/model//dlt/blue_ball_model/blue_ball_model.ckpt"
